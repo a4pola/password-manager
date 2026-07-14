@@ -1,4 +1,4 @@
-# password-manager
+<img width="694" height="627" alt="image" src="https://github.com/user-attachments/assets/784d3bdf-3fd3-49a2-8020-851f141abf39" /># password-manager
 "Менеджер паролей на PHP + MySQL. Поддерживает регистрацию, шифрование, CRUD. Учебный проект для демонстрации навыков."
 # 🔐 Менеджер паролей
 
@@ -25,5 +25,6 @@
 - Git
 ## Скриншоты
 
-![Главная страница](screenshots/login.png)
+![<img width="694" height="627" alt="image" src="https://github.com/user-attachments/assets/b3b6d0e6-8568-4f19-abe1-9830a6795dc8" />
+](screenshots/login.png)
 ![Дашборд](screenshots/dashboard.png)
