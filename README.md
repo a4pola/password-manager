@@ -25,5 +25,7 @@
 ## Скриншоты
 <h3>Главная страница</h3>
 <img width="694" height="627" alt="image" src="https://github.com/user-attachments/assets/a4e3cf70-6376-4138-b94b-d293af02f09c" />
-<h3>Главная страница</h3>
+<h3>Дашборд</h3>
+<img width="932" height="546" alt="image" src="https://github.com/user-attachments/assets/ffd6a35d-3789-4896-bc32-85e97442710d" />
+
 
