@@ -23,3 +23,7 @@
 - MySQL (PDO)
 - HTML5 / CSS3
 - Git
+## Скриншоты
+
+![Главная страница](screenshots/login.png)
+![Дашборд](screenshots/dashboard.png)
