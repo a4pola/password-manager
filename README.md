@@ -23,5 +23,7 @@
 - HTML5 / CSS3
 - Git
 ## Скриншоты
+<h1>Главная страница</h1>
+<br>
 <img width="694" height="627" alt="image" src="https://github.com/user-attachments/assets/a4e3cf70-6376-4138-b94b-d293af02f09c" />
 
